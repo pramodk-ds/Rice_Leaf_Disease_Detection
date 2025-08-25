@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter Notebook / Colab
+.ipynb_checkpoints
+*.nbconvert.ipynb
+*.ipynb
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Colab specific
+.colab/
